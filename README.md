@@ -1,2 +1,2 @@
 # huffman-coding-practice
-huffman coding implementation
+adaptive huffman coding implementation by c++
